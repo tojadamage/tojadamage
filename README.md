@@ -2,8 +2,6 @@
 
 
 ## About me
-- 🔭 I have multiple minecraft server projects
-- 🌱 I’m currently learning Lua
 - ⚡ Hobbies: Programming and playing
 
 ## My languages and tools
