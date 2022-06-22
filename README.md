@@ -1,9 +1,6 @@
 <h1 align="center">Hi there I'm Radoslaw aka damageDMG 👋</h1>
 
 
-## About me
-- ⚡ Hobbies: Programming and playing
-
 ## My languages and tools
 <img align="left" alt="MySQL" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" />
 <img align="left" alt="MySQL" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />
